@@ -1,7 +1,15 @@
-I will add more of the scripts I made over time but I need to give these out before I die so I figured I'd make a start.
+# Script Collection
 
-Individual Scripts, what they do, how to use them & use-case example:
+A set of useful scripts with descriptions, usage instructions, and example use-cases. More scripts will be added over time.
 
-❗  groupcrop.py // crop all images in the same folder this script. overwrites originals.
-  💿  place in folder with images, edit groupcrop.py crop values, run script: for windows, type cmd in addressbar and hit enter. then type python groupcrop.py and hit enter.
-  🔧  used to prepare blender sprites for Zandronum
+---
+
+### ❗ `groupcrop.py`
+**Purpose:** Crop all images in the same folder as the script. Overwrites the original files.  
+**How to Use:**  
+1. Place `groupcrop.py` in the folder containing your images.  
+2. Edit the crop values directly in the script.  
+3. Run the script:  
+   - On Windows: Open the folder, type `cmd` in the address bar, press Enter.  
+   - Type `python groupcrop.py` and press Enter.  
+**Use-Case Example:** Preparing Blender sprites for Zandronum.
