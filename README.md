@@ -6,6 +6,7 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
 
 ### ❗ `groupcrop.py`
 **Purpose:** 
+
 Crop all images in the same folder as the script. Overwrites the original files.  
 
 **How to Use:**  
@@ -18,6 +19,7 @@ Crop all images in the same folder as the script. Overwrites the original files.
 
 ### ❗ `45RGBA.py`
 **Purpose:** 
+
 Recolour all images in the same folder as the script down to 45 colours + transparency. 
 
 **How to Use:**  
