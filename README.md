@@ -16,8 +16,8 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
 
 ### ❗ `45RGBA.py`
 **Purpose:** Recolour all images in the same folder as the script down to 45 colours + transparency. 
-**How to Use:**  
-1. Place `45RGBA.py` in the folder containing your images.  
+
+**How to Use:**  1. Place `45RGBA.py` in the folder containing your images.  
 2. Run the script:  
    - On Windows: Open the folder, type `cmd` in the address bar, press Enter.  
    - Type `python 45RGBA.py` and press Enter.  
