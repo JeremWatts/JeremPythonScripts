@@ -27,4 +27,4 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
    2. Run the script:  
       - On Windows: Open the folder, type `cmd` in the address bar, press Enter.  
       - Type `python 45RGBA.py` and press Enter.  
-**Use-Case Example:** Preparing prerendered sprites for UZDooM.
+**Use-Case Example:** Optimizing art for games.
