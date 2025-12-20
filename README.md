@@ -16,7 +16,7 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
       - On Windows: Open the folder, type `cmd` in the address bar, press Enter.  
       - Type `python groupcrop.py` and press Enter.  
       
-**Use-Case Example:** Preparing Blender sprites for Zandronum.
+**Use-Case Example:** Preparing Blender sprites for Zandronum without having to install gimp.
 
 ---
 
