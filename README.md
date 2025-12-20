@@ -59,7 +59,7 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
    1. Open command prompt, type `taskschd.msc`, press enter.  
    2. Have this script open in a cmd window on startup. I might detail the steps for this here one day. Use an LLM in the mean time.
    
-**Use-Case Example:** You're seethingly sick of windows' explorer.exe and you still want to see the time.
+**Use-Case Example:** You're seethingly sick of windows' explorer.exe and you still want to see the time and set your volume.
 
 ---
 
