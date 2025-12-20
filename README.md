@@ -15,6 +15,7 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
    3. Run the script:  
       - On Windows: Open the folder, type `cmd` in the address bar, press Enter.  
       - Type `python groupcrop.py` and press Enter.  
+      
 **Use-Case Example:** Preparing Blender sprites for Zandronum.
 
 ### ❗ `45RGBA.py`
@@ -27,6 +28,7 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
    2. Run the script:  
       - On Windows: Open the folder, type `cmd` in the address bar, press Enter.  
       - Type `python 45RGBA.py` and press Enter.  
+      
 **Use-Case Example:** Optimizing art for games.
 
 ### ❗ `time.py`
@@ -37,5 +39,6 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
 **How to Use:**  
    1. Open command prompt, type `taskschd.msc`, press enter.  
    2. Have the script open in a cmd window on startup. I might detail the steps for this here one day. Use an LLM in the mean time.
+   
 **Use-Case Example:** You're seethingly sick of windows' explorer.exe and you still want to see the time.
 
