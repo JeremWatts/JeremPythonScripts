@@ -4,7 +4,7 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
 
 ---
 
-### ❗ `groupcrop.py`
+### ❗ `groupcrop.py` 🎨
 **Purpose:** 
 
    Crop all images in the same folder as the script. Overwrites the original files.  
@@ -18,7 +18,7 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
       
 **Use-Case Example:** Preparing Blender sprites for Zandronum.
 
-### ❗ `45RGBA.py`
+### ❗ `45RGBA.py` 🎨
 **Purpose:** 
 
    Recolour all images in the same folder as the script down to 45 colours + transparency. 
@@ -31,14 +31,27 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
       
 **Use-Case Example:** Optimizing art for games.
 
-### ❗ `time.py`
+### ❗ `time.py` ⏰
 **Purpose:** 
 
    Display system time. 
 
 **How to Use:**  
    1. Open command prompt, type `taskschd.msc`, press enter.  
-   2. Have the script open in a cmd window on startup. I might detail the steps for this here one day. Use an LLM in the mean time.
+   2. Have this script open in a cmd window on startup. I might detail the steps for this here one day. Use an LLM in the mean time.
+   
+**Use-Case Example:** You're seethingly sick of windows' explorer.exe and you still want to see the time.
+
+
+
+### ❗ `t+v.py` ⏰+🔊
+**Purpose:** 
+
+   Display system time in 5min increments, and let you input a float for volume control or even simply press enter to receive time again. 
+
+**How to Use:**  
+   1. Open command prompt, type `taskschd.msc`, press enter.  
+   2. Have this script open in a cmd window on startup. I might detail the steps for this here one day. Use an LLM in the mean time.
    
 **Use-Case Example:** You're seethingly sick of windows' explorer.exe and you still want to see the time.
 
