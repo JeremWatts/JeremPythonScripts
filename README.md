@@ -17,6 +17,7 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
       - Type `python groupcrop.py` and press Enter.  
       
 **Use-Case Example:** Preparing Blender sprites for Zandronum.
+---
 
 ### ❗ `45RGBA.py` 🎨
 **Purpose:** 
@@ -30,6 +31,7 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
       - Type `python 45RGBA.py` and press Enter.  
       
 **Use-Case Example:** Optimizing art for games.
+---
 
 ### ❗ `time.py` ⏰
 **Purpose:** 
@@ -41,6 +43,7 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
    2. Have this script open in a cmd window on startup. I might detail the steps for this here one day. Use an LLM in the mean time.
    
 **Use-Case Example:** You're seethingly sick of windows' explorer.exe and you still want to see the time.
+---
 
 
 
@@ -54,4 +57,5 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
    2. Have this script open in a cmd window on startup. I might detail the steps for this here one day. Use an LLM in the mean time.
    
 **Use-Case Example:** You're seethingly sick of windows' explorer.exe and you still want to see the time.
+---
 
