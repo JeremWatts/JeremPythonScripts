@@ -63,3 +63,18 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
 
 ---
 
+### ❗ `convert all subfolder images to 4bit.py` 🎨
+**Purpose:** 
+
+   Save you disk space via reducing many images to 4bit. This script looks through the root folder that it is placed in, and all subfolders, then creates an output with the same folder structure where it converts any PNGs found inside into 4bit to give your disk a rest.
+This does not touch images with transparency, because 4bit does not blend transparency. there is definitely a way to deal with that that i've done in the past. transparent iamges, though not 4bit, will still be copied into the output of course.
+
+**How to Use:**  
+   1. Place `convert all subfolder images to 4bit.py` in the folder containing your image folders.
+   2. Open command prompt, type `python "convert all subfolder images to 4bit.py"`, press enter.  
+   
+**Use-Case Example:** Your PNGs are too fat.
+
+
+---
+
