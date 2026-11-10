@@ -19,7 +19,7 @@
 <img width="384" height="216" alt="100_happy" src="https://github.com/user-attachments/assets/0d7c56a1-b53d-4133-a4d5-0fc7ccccaea2" /> >
 <img width="384" height="216" alt="output_image" src="https://github.com/user-attachments/assets/017fa5a5-a2ae-492e-989a-0135f149922b" />
 
-   ```Recolour all images in the same folder as the script down to 45 colours + transparency; your file size will also shrink.```
+   ```Recolour all images in the same folder as the script down to 45 colours + transparency; your file size will also shrink. Creates an output folder.```
 
 **How to Use:**  
    1. Place `45RGBA.py` in the folder containing your images.  
