@@ -1,10 +1,10 @@
+# Script Collection 🎨
 
+A collection of useful Python scripts, complete with descriptions, usage instructions, and example use-cases. More scripts will be added over time.
 
-# Script Collection
-
-   A set of useful scripts with descriptions, usage instructions, and example use-cases. More scripts will be added over time.
 ---
-### ❗ `RADIAL_inverse_ERASE.py` 🎨
+
+## 🎨 `RADIAL_inverse_ERASE.py`
 **Use-Case Example:**
 
 
@@ -23,7 +23,7 @@
 
 ---
 
-### ❗ `groupcrop.py` 🎨
+### 🎨 `groupcrop.py` 
 **Purpose:** 
 
    Crop all images in the same folder as the script. Overwrites the original files.  
@@ -39,7 +39,7 @@
 
 ---
 
-### ❗ `45RGBA.py` 🎨
+### 🎨 `45RGBA.py` 
 **Purpose:** 
 
    Recolour all images in the same folder as the script down to 45 colours + transparency. 
@@ -54,7 +54,7 @@
 
 ---
 
-### ❗ `time.py` ⏰
+### ⏰ `time.py` 
 **Purpose:** 
 
    Display system time. 
@@ -69,7 +69,7 @@
 
 
 
-### ❗ `t+v.py` ⏰+🔊
+### ⏰+🔊 `t+v.py` 
 **Purpose:** 
 
    Display system time in 5min increments, and let you input a float for volume control or even simply press enter to receive time again. 
@@ -82,7 +82,7 @@
 
 ---
 
-### ❗ `convert all subfolder images to 4bit.py` 🎨
+### 🎨 `convert all subfolder images to 4bit.py` 
 **Purpose:** 
 
    Save you disk space via reducing many images to 4bit. This script looks through the root folder that it is placed in, and all subfolders, then creates an output with the same folder structure where it converts any PNGs found inside into 4bit to give your disk a rest.
