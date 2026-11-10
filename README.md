@@ -1,5 +1,6 @@
+
 ### 🎨 `RADIAL_inverse_ERASE.py`
-**Use-Case Example:**
+**Use-Case Example:** soft borders to otherwise harsh edges;
 
 
 <img width="384" height="216" alt="100_shock" src="https://github.com/user-attachments/assets/f9b37aa9-6bcd-4ba5-be89-32c961daa3fe" /> >
@@ -17,6 +18,24 @@
 
 ---
 
+### 🎨 `45RGBA.py` 
+**Use-Case Example:** Optimizing art for games;
+
+
+<img width="384" height="216" alt="100_happy" src="https://github.com/user-attachments/assets/0d7c56a1-b53d-4133-a4d5-0fc7ccccaea2" />
+<img width="384" height="216" alt="output_image" src="https://github.com/user-attachments/assets/017fa5a5-a2ae-492e-989a-0135f149922b" />
+**Purpose:** 
+
+   Recolour all images in the same folder as the script down to 45 colours + transparency. 
+
+**How to Use:**  
+   1. Place `45RGBA.py` in the folder containing your images.  
+   2. Run the script:  
+      - On Windows: Open the folder, type `cmd` in the address bar, press Enter.  
+      - Type `python 45RGBA.py` and press Enter.
+     
+---
+
 ### 🎨 `groupcrop.py` 
 **Purpose:** 
 
@@ -30,21 +49,6 @@
       - Type `python groupcrop.py` and press Enter.  
       
 **Use-Case Example:** Preparing Blender sprites for Zandronum without having to install gimp.
-
----
-
-### 🎨 `45RGBA.py` 
-**Purpose:** 
-
-   Recolour all images in the same folder as the script down to 45 colours + transparency. 
-
-**How to Use:**  
-   1. Place `45RGBA.py` in the folder containing your images.  
-   2. Run the script:  
-      - On Windows: Open the folder, type `cmd` in the address bar, press Enter.  
-      - Type `python 45RGBA.py` and press Enter.  
-      
-**Use-Case Example:** Optimizing art for games.
 
 ---
 
