@@ -1,11 +1,13 @@
 
 
 # Script Collection
-
 A set of useful scripts with descriptions, usage instructions, and example use-cases. More scripts will be added over time.
-
 ---
 ### ❗ `RADIAL_inverse_ERASE.py` 🎨
+**Use-Case Example:**
+<img width="384" height="216" alt="100_anger" src="https://github.com/user-attachments/assets/91de77b8-d34b-4826-b949-e0bd3fceb9d9" /> >
+<img width="384" height="216" alt="100_shock" src="https://github.com/user-attachments/assets/02de177a-e9a9-4178-ae30-f3af2782cc0d" />
+
 **Purpose:** 
 
    Radial-inverse-erase all PNG images in the same folder as the script. Creates an output folder.  
@@ -15,10 +17,6 @@ A set of useful scripts with descriptions, usage instructions, and example use-c
    2. Run the script:  
       - On Windows: Open the folder, type `cmd` in the address bar, press Enter.  
       - Type `RADIAL_inverse_ERASE.py` and press Enter.  
-
-**Use-Case Example:**
-<img width="384" height="216" alt="100_anger" src="https://github.com/user-attachments/assets/91de77b8-d34b-4826-b949-e0bd3fceb9d9" /> >
-<img width="384" height="216" alt="100_shock" src="https://github.com/user-attachments/assets/02de177a-e9a9-4178-ae30-f3af2782cc0d" />
 
 ---
 
