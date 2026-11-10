@@ -1,12 +1,8 @@
 
 ### 🎨 `RADIAL_inverse_ERASE.py`
-**Use-Case Example:** 
-
 
 <img width="384" height="216" alt="100_shock" src="https://github.com/user-attachments/assets/f9b37aa9-6bcd-4ba5-be89-32c961daa3fe" /> >
 <img width="384" height="216" alt="100_shock" src="https://github.com/user-attachments/assets/02de177a-e9a9-4178-ae30-f3af2782cc0d" />
-
-**Purpose:** 
 
    Radial-inverse-erase all PNG images in the same folder as the script. Creates an output folder. Softer edges on art.
 
@@ -19,13 +15,9 @@
 ---
 
 ### 🎨 `45RGBA.py` 
-**Use-Case Example:** 
-
 
 <img width="384" height="216" alt="100_happy" src="https://github.com/user-attachments/assets/0d7c56a1-b53d-4133-a4d5-0fc7ccccaea2" /> >
 <img width="384" height="216" alt="output_image" src="https://github.com/user-attachments/assets/017fa5a5-a2ae-492e-989a-0135f149922b" />
-
-**Purpose:** 
 
    Recolour all images in the same folder as the script down to 45 colours + transparency; your file size will also shrink. 
 
