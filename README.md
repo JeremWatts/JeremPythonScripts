@@ -1,10 +1,4 @@
-# Script Collection 🎨
-
-A collection of useful Python scripts, complete with descriptions, usage instructions, and example use-cases. More scripts will be added over time.
-
----
-
-## 🎨 `RADIAL_inverse_ERASE.py`
+### 🎨 `RADIAL_inverse_ERASE.py`
 **Use-Case Example:**
 
 
