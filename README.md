@@ -1,7 +1,8 @@
 
 
 # Script Collection
-A set of useful scripts with descriptions, usage instructions, and example use-cases. More scripts will be added over time.
+
+   A set of useful scripts with descriptions, usage instructions, and example use-cases. More scripts will be added over time.
 ---
 ### ❗ `RADIAL_inverse_ERASE.py` 🎨
 **Use-Case Example:**
